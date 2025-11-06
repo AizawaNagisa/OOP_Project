@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f16fc5e0-b356-4b7a-8e46-1da98d2b56bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoUong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoaDon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhuyenMai.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoaiThucAn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhanSu/NhanVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhanSu/NhanVienBanHang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhanSu/NhanVienDungBep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhanSu/PhuCapThamNien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NhanSu/QuanLi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/CoSoVatChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/QuanLiCSVC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/QuanLiChung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/QuanLiDonHang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/QuanLiNhanVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/QuanLiSanPham.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLi/QuanLi_TK_KhachHang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SanPham.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThucAn.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "NhanSu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
